@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Persona 5  <code>is very very very good. </code> and dfdfgfgfdgf to reload.
+          I was born in the dark 5  <code>y very very good. </code> and dfdfgfgfdgf to reload.
         </p>
         <a
           className="App-link"
